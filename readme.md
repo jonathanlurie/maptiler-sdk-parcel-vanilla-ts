@@ -1,1 +1,2 @@
-Following these instructions: https://parceljs.org/getting-started/webapp/
+# MapTiler SDK + TypeScript + Parcel
+For starting quickly a minimalist web mapping project.
